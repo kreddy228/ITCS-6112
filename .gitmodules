@@ -25,3 +25,6 @@
 [submodule "Group-Repo-9"]
 	path = Group-Repo-9
 	url = https://github.com/kreddy228/Group-Repo-9.git
+[submodule "Group-Repo-10"]
+	path = Group-Repo-10
+	url = https://github.com/kreddy228/Group-Repo-10.git
